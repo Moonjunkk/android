@@ -1,0 +1,375 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.map-pdf {
+  width: 100%;
+  height: 80rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.map-pdf .image-1-Lc1 {
+  width: 37.5rem;
+  height: 81.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.map-pdf .group-177237-raM {
+  width: 34.4rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 9.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+}
+.map-pdf .group-177237-raM .item--BMj {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  box-sizing: border-box;
+  padding: 1.25rem 2.738rem 1.25rem 2.4rem;
+  width: calc(100% - 0.1rem);
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  box-shadow: 0 0 3rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.map-pdf .group-177237-raM .item--BMj .auto-group-ad4d-Eqo {
+  margin-right: 13.5375rem;
+  width: 13.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0048rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.map-pdf .group-177237-raM .item--BMj .outline-check-circle-FW1 {
+  width: 2.025rem;
+  height: 2.025rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.map-pdf .group-177237-raM .item--KVs {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding: 1.25rem 2.738rem 1.25rem 2.4rem;
+  width: calc(100% - 0.1rem);
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  box-shadow: 0 0 3rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.map-pdf .group-177237-raM .item--KVs .auto-group-27vh-czm {
+  margin-right: 12.6375rem;
+  width: 14.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0048rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.map-pdf .group-177237-raM .item--KVs .outline-check-circle-Hr1 {
+  width: 2.025rem;
+  height: 2.025rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.map-pdf .group-177193-9tD {
+  width: 3.5582rem;
+  height: 3.6517rem;
+  position: absolute;
+  left: 2.1322rem;
+  top: 31.6464rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .group-177194-spD {
+  box-sizing: border-box;
+  padding: 2.142rem 2.087rem 2.142rem 2.087rem;
+  width: 5.5826rem;
+  height: 5.7292rem;
+  position: absolute;
+  left: 12.1455rem;
+  top: 38.3759rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/oval-5.png');
+}
+.map-pdf .group-177194-spD .navigation-m8u {
+  width: 1.4089rem;
+  height: 1.4459rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .group-177235-fk5 {
+  box-sizing: border-box;
+  padding: 2rem 0rem 2rem 0.2rem;
+  width: 5.8rem;
+  height: 8rem;
+  position: absolute;
+  left: 26.3rem;
+  top: 49.9rem;
+  border-top: solid 0.3rem #9721f2;
+  border-bottom: solid 0.3rem #9721f2;
+}
+.map-pdf .group-177235-fk5 .line-2-xUH {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #9721f2;
+}
+.map-pdf .line-4-TA9 {
+  width: 5.6rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 31.7rem;
+  top: 65.1rem;
+  background-color: #ffa553;
+}
+.map-pdf .content-PZb {
+  box-sizing: border-box;
+  padding: 0.7rem 2.6rem 0.7rem 9rem;
+  width: 37.5rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 0;
+  top: 67.3rem;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: -1rem 0.4rem 2rem rgba(47, 47, 47, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.6rem 1.6rem 0 0;
+}
+.map-pdf .content-PZb .group-177229-f1K {
+  margin-right: 0.2rem;
+  width: 3.6rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.map-pdf .content-PZb .auto-group-ynlr-ae5 {
+  margin: 0.2rem 1.7rem 0rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.map-pdf .content-PZb .auto-group-ynlr-ae5 .item-30-00-6sK {
+  margin-bottom: 4.6873rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.8;
+  color: #4d4d4d;
+  font-family: Do Hyeon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.map-pdf .content-PZb .auto-group-ynlr-ae5 .home-indicator-light-Dh3 {
+  margin-right: 2.7rem;
+  width: 13.4rem;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.map-pdf .content-PZb .auto-group-ynlr-ae5 .home-indicator-light-Dh3 .home-indicator-kws {
+  width: 100%;
+  height: 0.1972rem;
+  background-color: #000000;
+  border-radius: 10rem;
+}
+.map-pdf .content-PZb .text-5z9 {
+  margin-top: 2.4433rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.003rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.map-pdf .mask-group-9UD {
+  width: 4.5rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 47rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .group-177230-sv1 {
+  box-sizing: border-box;
+  padding: 4.1rem 0rem 2.4rem 6.4rem;
+  width: 14.35rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 63.9rem;
+  display: flex;
+  align-items: center;
+}
+.map-pdf .group-177230-sv1 .frame-635-aJd {
+  margin-right: 2.85rem;
+  width: 3.6rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.map-pdf .group-177230-sv1 .outline-stop-Wi5 {
+  margin-bottom: 0.1rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.map-pdf .group-177233-dGu {
+  width: 3.6rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 66.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .vector-kMX {
+  width: 1.632rem;
+  height: 2.1675rem;
+  position: absolute;
+  left: 25.728rem;
+  top: 43.6453rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .vector-Gam {
+  width: 1.632rem;
+  height: 2.1675rem;
+  position: absolute;
+  left: 13.92rem;
+  top: 36.4532rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .app-bar-oah {
+  box-sizing: border-box;
+  padding: 5.3rem 2.25rem 2.2rem 2.25rem;
+  width: 37.5rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #430078;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+}
+.map-pdf .group-10-ros {
+  width: 4.4127rem;
+  height: 4.4127rem;
+  position: absolute;
+  left: 20.6rem;
+  top: 23.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .ios-status-bar-white-PYu {
+  width: 37.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .outline-home-1-XQD {
+  width: 2rem;
+  height: 2.125rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 76.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .outline-message-circle-dots-ezd {
+  width: 2.25rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 10.575rem;
+  top: 76.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .outline-navigation-atH {
+  width: 1.75rem;
+  height: 2.125rem;
+  position: absolute;
+  left: 17.825rem;
+  top: 76.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .outline-cart-4-X2q {
+  width: 2.375rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 24.65rem;
+  top: 76.675rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.map-pdf .outline-user-1-3ms {
+  width: 2rem;
+  height: 2.25rem;
+  position: absolute;
+  left: 31.7rem;
+  top: 76.575rem;
+  object-fit: contain;
+  vertical-align: top;
+}
